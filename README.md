@@ -6,9 +6,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sayanghosh10082001&label=Profile%20views&color=0e75b6&style=flat" alt="sayanghosh10082001" /> </p>
 
-- 🌱 I’m currently learning **React Native, Node js**
+- 🌱 I’m currently learning **Android Development**
 
-- 💬 Ask me about **MERN**
+- 💬 Ask me about **Android Development**
 
 - 📫 How to reach me **sayan.ghosh1008@gmail.com**
 
