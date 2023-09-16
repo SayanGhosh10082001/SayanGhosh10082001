@@ -1,4 +1,4 @@
-[![MasterHead](https://www.google.com/url?sa=i&url=http%3A%2F%2Fwww.bornoit.com%2Fservice%2Fwordpress&psig=AOvVaw1brXmiulIwxjjcaz35mnlM&ust=1694918020789000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCLjEqOKLroEDFQAAAAAdAAAAABAJ)]
+[![MasterHead](https://www.google.com/url?sa=i&url=http%3A%2F%2Fwww.bornoit.com%2Fservice%2Fwordpress&psig=AOvVaw1brXmiulIwxjjcaz35mnlM&ust=1694918020789000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCLjEqOKLroEDFQAAAAAdAAAAABAJ)](https://www.bornoit.com/service/wordpress)
 
 <h1 align="center">Hi 👋, I'm Sayan Ghosh</h1>
 <h3 align="center">A passionate backend developer from India</h3>
