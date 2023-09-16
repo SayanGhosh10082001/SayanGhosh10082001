@@ -6,9 +6,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sayanghosh10082001&label=Profile%20views&color=0e75b6&style=flat" alt="sayanghosh10082001" /> </p>
 
-- 🌱 I’m currently learning **Android Development**
+- 🌱 I’m currently learning **WordPress Development**
 
-- 💬 Ask me about **Android Development**
+- 💬 Ask me about **WordPress Development**
 
 - 📫 How to reach me **sayan.ghosh1008@gmail.com**
 
